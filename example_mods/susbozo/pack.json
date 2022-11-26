@@ -1,0 +1,7 @@
+{
+	"name": "idk",
+	"description": "idkman",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [170, 0, 255]
+}
