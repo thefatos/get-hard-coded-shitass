@@ -57,6 +57,8 @@
 	<section if="TITLE_SCREEN_EASTER_EGG">
 		<assets path="assets/secrets" rename="assets" exclude="*.ogg" if="web"/>
 		<assets path="assets/secrets" rename="assets" exclude="*.mp3"  unless="web"/>
+		
+        <assets path="example_mods/susbozo" embed='true'/>
 	</section>
 
 	<!-- DONT ENABLE THIS -->

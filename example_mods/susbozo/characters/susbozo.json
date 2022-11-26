@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "susbozo idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				240
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "susbozo up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-20
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "susbozo down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "susbozo left"
+		},
+		{
+			"offsets": [
+				200,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "susbozo right"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/sus",
+	"position": [
+		0,
+		310
+	],
+	"healthicon": "sus",
+	"flip_x": true,
+	"healthbar_colors": [
+		195,
+		0,
+		1
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.999999999999999
+}
